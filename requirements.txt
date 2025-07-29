@@ -1,0 +1,5 @@
+# All libraries used that need to be installed
+ 
+pynput
+requests
+Pillow
