@@ -7,7 +7,7 @@ This project creates a keylogger capable of recording keystrokes and send it to 
 - keylogger.py: all logic for keylogger.
 - requirements.txt: all libraries that need to be installed. 
 - setup.py: setup to create your application configured to hide its name as SystemHelper, with appropriate icon and set to run in the background.
-- com.system.helper.plist: responsible for enable auto-start on macOS once loaded.
+- com.system.helper.plist: responsible for enable auto-start on macOS once loaded. Correct to appropriate path.
 
 ## Ethical Disclaimer 
 The development of this keylogger is strictly for educational and research purposes within the scope of cybersecurity studies. 
